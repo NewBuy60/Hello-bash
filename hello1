@@ -1,3 +1,6 @@
 #!/bin/bash
 
-echo "Hello, world! It is now" "$(date)" > hello.txt
+
+
+
+echo "Hello, bash ! It is now" "$(date)" > hello.txt
