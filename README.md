@@ -3,4 +3,5 @@
 Двумя разными способами
 
 Лабораторная работа №4
+rm hello.txt - удалить hello.txt
 gpg generated
